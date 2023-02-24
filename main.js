@@ -3,7 +3,7 @@ function setup(){
     canvas.center();
     background("white")
 }
-function drawe(){
+function draw(){
     strokeWeight(13)
     stroke("blue")
     if(mouseIsPressed){
